@@ -2023,6 +2023,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://relevanceai.com/">website</a> | <a href="https://twitter.com/RelevanceAI">twitter</a> | <a href="https://github.com/RelevanceAI">github profile</a> | <a href="https://www.linkedin.com/company/relevanceai/">linkedin</a></p>
 </div>
 
+### Remio
+<div><a href="https://remio.ai/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
+
+<p>🧠 Long-Term Memory</p>
+
+<p>Remio is a local-first AI memory and knowledge base desktop app that indexes notes, files, webpages, recordings, emails, messages, images, and other personal knowledge sources for semantic retrieval by users and agents. Its local indexing, file parsing, and vector search help agents retrieve targeted context instead of repeatedly scanning files with grep-style workflows or loading whole documents into prompts.</p>
+
+<p><a href="https://remio.ai/">website</a></p>
+</div>
+
 ### Rime AI
 <div><a href="https://rime.ai/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 
